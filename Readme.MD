@@ -18,7 +18,7 @@ A Symfony-based application that routes payment transactions between multiple pa
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/payment-gateway-router.git
-cd payment-gateway-router
+cd voltioTestTask
 ```
 
 2. Start the Docker environment:
